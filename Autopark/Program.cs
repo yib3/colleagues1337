@@ -15,7 +15,7 @@ namespace Salad
             int veg;
             Salad salad = new Salad();
             
-            vegetablesAmount = 4;
+            vegetablesAmount = 8;
 
             Console.WriteLine("В салате: ");
             for (int i = 1; i <= vegetablesAmount; i++)
